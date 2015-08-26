@@ -1,0 +1,2 @@
+C:/Users/Samuel/Documents/Visual Studio 2013/Projects/Quartet/SFML-Build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Samuel/Documents/Visual Studio 2013/Projects/Quartet/SFML-Build/CMakeFiles/ZERO_CHECK.dir
